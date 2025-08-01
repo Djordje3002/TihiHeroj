@@ -33,8 +33,10 @@ This project was developed as part of a SwiftyLabs course, in collaboration with
 ---
 
 ## 📸 Screenshots / Demo
+## 🎥 Demo Video
 
-🎥 *You can view the full user flow and demonstration in this video:*  
-📎 [Link to Video Demo](#) *(Insert video link here)*
+You can view the full user flow and demonstration in this video:  
+📎 [Watch the Video Demo on Vimeo](https://vimeo.com/1106608482)
+
 
 ---
