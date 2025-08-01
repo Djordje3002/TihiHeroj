@@ -40,3 +40,9 @@ You can view the full user flow and demonstration in this video:
 
 
 ---
+
+## 🎨 App Design Preview
+
+Here’s the full UI flow from Figma:
+
+![Figma UI](Full App Design.png)
