@@ -45,4 +45,4 @@ You can view the full user flow and demonstration in this video:
 
 Here’s the full UI flow from Figma:
 
-![Figma UI](Full App Design.png)
+![Figma UI](FigmaTihiHeroj-1.png)
